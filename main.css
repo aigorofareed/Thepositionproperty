@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    background-color: limegreen;
+}
+a:hover{
+    background-color: green;
+}
+span{
+    color: red;
+    background-color: aliceblue;
+}
+.Next{
+    position: relative;left: 540px;
+}
+li{
+    color: red;
+    background-color: aliceblue;
+    max-width: fit-content;
+}
+.is{
+    border-top: 4px solid;
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+    border-left: 4px solid;
+    border-color: limegreen;
+    margin: 20px;
+}
+.sol{
+    background-color: aliceblue;
+    padding: 15px;
+}
+pre{
+    background-color: white;
+    padding: 15px;
+    border-left: 5px solid limegreen;
+}
+.it{
+    position: relative;top: 5px;
+}

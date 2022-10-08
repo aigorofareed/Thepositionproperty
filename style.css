@@ -1,0 +1,36 @@
+a{
+    background-color: limegreen;
+    color: white;
+    box-sizing: border-box;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: green;
+}
+:active{
+    color: lawngreen;
+}
+
+pre{
+    border-left: 5px limegreen solid;
+    background-color: white;
+    height: 50vh;
+}
+
+.in{
+    /* background-color: aliceblue; */
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+}
+
+.try {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+
